@@ -1,0 +1,66 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+    padding: 20px 35px;
+    font-family: Verdana, Tahoma, sans-serif;
+    background-color: #ff7f50;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
+
+  header h1 {
+    font-weight: bold;
+    font-size: 36px;
+    color: whitesmoke;
+    margin: 0;
+  }
+  
+  header a {
+    text-decoration: none;
+    color: #deb887;
+  }
+  
+  header nav {
+    margin: 7px 0;
+  }
+  
+  header nav ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+  }
+
+  header nav ul li a {
+    margin: 0 30px;
+    font-weight: lighter;
+    font-size: 1.55vw;
+  }
+
+  .hero {
+    background-image: url(../images/IMG_0622.JPG);
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: left;
+    flex-wrap: wrap;
+    margin: 3.5%;
+  }
+  .britt-bio {
+    width: 30%;
+    text-align: left;
+    margin: 3.5%;
+    color: whitesmoke;
+    font-size: 24px;
+    font-weight: bold;
+    line-height: 1.3;
+  }
+  section {
+    padding: 150px;
+  }
