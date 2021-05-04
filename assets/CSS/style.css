@@ -43,6 +43,45 @@ header nav ul li a {
   font-size: 1.55vw;
 }
 
+footer {
+  padding: 20px 35px;
+  font-family: Verdana, Tahoma, sans-serif;
+  background-color: #ff7f50;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+footer h1 {
+  font-weight: bold;
+  font-size: 20px;
+  color: whitesmoke;
+  margin: 0;
+}
+
+footer a {
+  text-decoration: none;
+  color: #deb887;
+}
+
+footer nav {
+  margin: 7px 0;
+}
+
+footer nav ul {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  list-style: none;
+}
+
+footer nav ul li a {
+  margin: 0 30px;
+  font-weight: lighter;
+  font-size: 1.55vw;
+}
+
 .hero {
   background-image: url(../images/portfolio\ hero\ image.jpg);
   background-size: cover;
