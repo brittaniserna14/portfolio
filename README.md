@@ -2,5 +2,4 @@ For this project a prospective employer wanted to see my work as a web developer
 
 Link to site: https://brittaniserna14.github.io/portfolio/
 
-![Uploading Screen Shot 2021-05-03 at 5.36.56 PM.png…]()
-![Uploading Screen Shot 2021-05-03 at 5.36.56 PM.png…]()
+![Screen Shot 2021-05-03 at 5 36 56 PM](https://user-images.githubusercontent.com/82069434/117116115-ce912e80-ad42-11eb-89f5-1dca101d2c4f.png)
